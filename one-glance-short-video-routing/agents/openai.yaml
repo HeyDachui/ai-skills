@@ -1,0 +1,4 @@
+interface:
+  display_name: "一眼分流法"
+  short_description: "短视频素材下载转写去重标注意图与分析分流判断流程法"
+  default_prompt: "Use $one-glance-short-video-routing to download, transcribe, tag, and route this short-video material by reference intent."
