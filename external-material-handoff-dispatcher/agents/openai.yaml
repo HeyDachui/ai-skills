@@ -1,0 +1,6 @@
+interface:
+  display_name: "External Material Handoff Dispatcher"
+  short_description: "Package external-material tasks for execution and project threads."
+  default_prompt: "Use $external-material-handoff-dispatcher to hand off this material task with clear boundaries."
+policy:
+  allow_implicit_invocation: true

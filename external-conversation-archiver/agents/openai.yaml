@@ -1,0 +1,6 @@
+interface:
+  display_name: "External Conversation Archiver"
+  short_description: "Back up AI-platform conversations into visual and structured files."
+  default_prompt: "Use $external-conversation-archiver to archive this external AI conversation safely."
+policy:
+  allow_implicit_invocation: true

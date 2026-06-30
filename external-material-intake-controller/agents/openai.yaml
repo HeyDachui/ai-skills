@@ -1,0 +1,6 @@
+interface:
+  display_name: "External Material Intake Controller"
+  short_description: "Route external links, downloads, transcripts, galleries, and handoffs safely."
+  default_prompt: "Use $external-material-intake-controller to collect, classify, visualize, and hand off these external materials safely."
+policy:
+  allow_implicit_invocation: true

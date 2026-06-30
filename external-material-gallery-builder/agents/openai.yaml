@@ -1,0 +1,6 @@
+interface:
+  display_name: "External Material Gallery Builder"
+  short_description: "Create human visual galleries and thread-facing manifests."
+  default_prompt: "Use $external-material-gallery-builder to create visual and structured entrances for these materials."
+policy:
+  allow_implicit_invocation: true

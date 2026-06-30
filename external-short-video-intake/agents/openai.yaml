@@ -1,0 +1,6 @@
+interface:
+  display_name: "External Short Video Intake"
+  short_description: "Route short-video downloads, transcripts, comments, and creator batches."
+  default_prompt: "Use $external-short-video-intake to process these short-video links and prepare safe local outputs."
+policy:
+  allow_implicit_invocation: true

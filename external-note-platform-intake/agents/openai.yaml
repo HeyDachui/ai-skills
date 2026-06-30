@@ -1,0 +1,6 @@
+interface:
+  display_name: "External Note Platform Intake"
+  short_description: "Collect note-platform text, images, metrics, and comments safely."
+  default_prompt: "Use $external-note-platform-intake to collect and organize these note-platform materials."
+policy:
+  allow_implicit_invocation: true
