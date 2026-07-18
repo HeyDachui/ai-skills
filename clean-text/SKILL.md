@@ -1,9 +1,9 @@
 ---
-name: clean-text-artifacts
+name: clean-text
 description: Safely remove advertisements, watermarks, website notices, contact lines, and other non-body residue from TXT, Markdown, OCR text, ebooks, transcripts, or copied articles without altering the original. Use when Codex needs to detect mixed or obfuscated domains/emails, repeated promotional lines, or clearly bounded attached artifacts; preserve UTF-8, GBK/CP936, GB18030, or UTF-16 encoding, BOM, and line endings; create a verified clean copy; and produce an auditable report. Use only on material the user owns or is authorized to process. Do not use for rewriting, censoring, paraphrasing, or modifying body content.
 ---
 
-# 文本清洁与正文保护
+# 净稿｜文本清洁与正文保护
 
 清理广告、水印、推广语、网址、联系方式和其他非正文残留，同时保持正文、原件、原始编码和可复核记录完整。
 

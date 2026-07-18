@@ -1,4 +1,4 @@
 interface:
-  display_name: "文本清洁与正文保护"
+  display_name: "净稿｜文本清洁与正文保护"
   short_description: "清理多编码文本中的广告、水印与推广残留，保留正文、原件与可复核记录"
-  default_prompt: "Use $clean-text-artifacts to scan text artifacts, preserve the original encoding, create a verified cleaned copy, and report only the actual changes."
+  default_prompt: "Use $clean-text to scan text artifacts, preserve the original encoding, create a verified cleaned copy, and report only the actual changes."
