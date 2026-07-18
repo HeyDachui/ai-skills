@@ -1,0 +1,4 @@
+interface:
+  display_name: "正版传播防护"
+  short_description: "为TXT、Word和PDF加入L1-L4正版入口、水印与正文级传播防护"
+  default_prompt: "Use $protect-content-distribution to apply the appropriate L1-L4 official-source and copy-tracing protection to this TXT, DOCX, or PDF; default to L2 unless L4 is explicitly requested."
