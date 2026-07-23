@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片检查图库构建"
+  short_description: "构建可浏览的UTF-8检查页并管理分组、隐藏和重复度"
+  default_prompt: "Use $build-image-review-gallery to create a UTF-8 local review gallery with grouping, exclusions, and image-load validation."

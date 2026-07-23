@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片生成回执控制"
+  short_description: "核验图片、回执、哈希、重试和安全拦截并同步生产事实"
+  default_prompt: "Use $control-image-generation-receipts to reconcile generated files, receipts, retries, and queue status safely."

@@ -1,0 +1,38 @@
+{
+  "schema": "heydachui-public-skill-manifest/v1",
+  "package": "batch-image-production-modules",
+  "version": "2026-07-23",
+  "maintainer": "HeyDachui",
+  "source_thread": "019f7592-4f0a-7a10-9cfd-06fca82164a3",
+  "source_project": "AI-985",
+  "visibility": "public-modular-edition",
+  "public_modules": [
+    {
+      "name": "build-image-combination-queue",
+      "purpose": "Build auditable, deduplicated image-production queues and explicit batches.",
+      "skill_sha256": "234C0DF884A5BA72D8FC44C1CDA7BF023D1957420F8CEEC1C9E7446B14B494F3"
+    },
+    {
+      "name": "control-image-generation-receipts",
+      "purpose": "Reconcile local images, receipts, hashes, prompts, retries, and blocks.",
+      "skill_sha256": "409D3393D752F63489B1FF54331A3E7003FD081E68E64A97FACA35E959528653"
+    },
+    {
+      "name": "build-image-review-gallery",
+      "purpose": "Build local UTF-8 HTML review galleries with grouping and image-load checks.",
+      "skill_sha256": "62452C05B4E052B6C6A123E2DCFB97BBBE0C20F094306D341C5BE901096B8743"
+    },
+    {
+      "name": "finalize-image-production",
+      "purpose": "Reconcile final delivery artifacts and retain unresolved exceptions.",
+      "skill_sha256": "32320ECE58A55E51BAE03708E8930D89F78841E2A021D6B5F3372A8C68CD38CA"
+    }
+  ],
+  "excluded_from_public_release": [
+    "integrated batch-image-production-controller",
+    "real queues, prompts, generated images, receipts, and test outputs",
+    "project-specific operational evidence and local paths"
+  ],
+  "release_boundary": "Each module is independently usable. Combining them is optional; no public module is an autonomous publishing or image-generation system.",
+  "notice": "See NOTICE.md for source attribution, responsible-use expectations, and AI-use guidance."
+}

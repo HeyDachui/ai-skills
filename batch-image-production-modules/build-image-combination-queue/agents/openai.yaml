@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片组合队列构建"
+  short_description: "从动作、服装与提示词资产建立稳定且可审计的生产队列"
+  default_prompt: "Use $build-image-combination-queue to build and validate a deduplicated image-production queue from source assets."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片生产最终收口"
+  short_description: "核对图片、提示词、异常、索引和报告形成完整批量交付"
+  default_prompt: "Use $finalize-image-production to reconcile and finalize a completed batch image-production delivery."
