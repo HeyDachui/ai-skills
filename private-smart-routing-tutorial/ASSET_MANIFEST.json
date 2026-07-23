@@ -1,0 +1,23 @@
+{
+  "schema": "heydachui-public-tutorial-manifest/v1",
+  "title": "私人智能分流网络教程",
+  "version": "2026-07-24",
+  "maintainer": "HeyDachui",
+  "visibility": "public-sanitized-tutorial",
+  "included": [
+    {
+      "path": "TUTORIAL_zh-CN.md",
+      "role": "public implementation tutorial",
+      "sha256": "1062CC9BFF5F14CD83D220BF5C7113EF26B9E8B4E4366D2BE5F05EDF76CAFF13"
+    }
+  ],
+  "excluded": [
+    "application source code",
+    "Windows release packages and installers",
+    "server management scripts",
+    "device profiles, private keys, credentials, endpoints, and local paths",
+    "third-party binaries, ruleset snapshots, and historical development archive"
+  ],
+  "usage_boundary": "Private named-device infrastructure only; not a public proxy, commercial VPN, or authorization to bypass laws or platform terms.",
+  "source_provenance": "AI-assisted internal implementation experience; project-specific operational artifacts intentionally excluded."
+}
