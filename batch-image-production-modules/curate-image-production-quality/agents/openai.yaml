@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片生产质量筛选"
+  short_description: "汇总人工判断、重复度和淘汰决定并生成可逆的成品选择清单"
+  default_prompt: "Use $curate-image-production-quality to create a reversible quality and diversity selection manifest for generated images."

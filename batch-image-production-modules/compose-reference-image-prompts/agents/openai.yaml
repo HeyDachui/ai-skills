@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考图提示词构造"
+  short_description: "组合并验证参考图生成提示词中的固定维度、可变维度和验收条件"
+  default_prompt: "Use $compose-reference-image-prompts to compose and validate reference-guided image prompts from structured constraints."

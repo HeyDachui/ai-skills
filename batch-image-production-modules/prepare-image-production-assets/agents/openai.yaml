@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片生产资产准备"
+  short_description: "核验参考图、动作、服装、配方和提示词并建立可生产资产清单"
+  default_prompt: "Use $prepare-image-production-assets to validate source assets and create a production-ready asset manifest."

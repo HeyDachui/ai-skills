@@ -1,19 +1,23 @@
 # Batch Image Production Modules
 
-Four small, independent Skills for reliable batch image-production work. They may be used alone or combined in this order:
+Eight small, independent Skills for a complete, evidence-based batch image-production workflow. Use one module when that is all you need, or combine them in this order:
 
-`queue → receipts → review gallery → finalization`
+`asset preparation → prompt composition → queue building → dispatch → receipt control → quality curation → review gallery → finalization`
 
 ## Modules
 
-- `build-image-combination-queue` — turn source assets and exact prompts into a stable, deduplicated production queue and explicit batches.
-- `control-image-generation-receipts` — reconcile local images, receipts, hashes, prompts, retries, and safety blocks before treating work as complete.
-- `build-image-review-gallery` — build a local UTF-8 HTML review gallery with grouping and broken-image indicators.
-- `finalize-image-production` — reconcile the queue and generate a machine index, prompt archive, audit summary, and human-readable report.
+1. `prepare-image-production-assets` — verify references, prompts, job IDs, and target paths before production.
+2. `compose-reference-image-prompts` — make the fixed and variable dimensions of reference-guided prompts explicit.
+3. `build-image-combination-queue` — build auditable, deduplicated queues and explicit batches.
+4. `dispatch-batch-image-generation` — create bounded worker packets with exact jobs, paths, prompts, receipts, and retry rules.
+5. `control-image-generation-receipts` — reconcile local images, receipts, hashes, prompts, retries, and blocks.
+6. `curate-image-production-quality` — surface repetition and record reversible human keep/hide/reject decisions.
+7. `build-image-review-gallery` — build a local UTF-8 HTML gallery with grouping and broken-image indicators.
+8. `finalize-image-production` — reconcile delivery evidence and generate indexes, prompt archives, and exception reports.
 
 ## What is intentionally not included
 
-This is the public modular edition. The original integrated controller, project-specific tests, real queues, production prompts, generated images, and operational evidence are not included.
+This is the public modular edition. The integrated controller, real project queues, generated images, prompt collections, receipts, test outputs, local absolute paths, and operating evidence are not included.
 
 ## Requirements
 

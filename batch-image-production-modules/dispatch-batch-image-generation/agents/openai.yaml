@@ -1,0 +1,4 @@
+interface:
+  display_name: "批量图片生成派发"
+  short_description: "把明确任务打包派发并隔离媒体回执、限制自主续领和重复生成"
+  default_prompt: "Use $dispatch-batch-image-generation to create explicit worker packets for safe batch image generation."

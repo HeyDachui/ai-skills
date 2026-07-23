@@ -4,7 +4,8 @@
 
 **Maintainer:** HeyDachui
 
-**Packaged:** 2026-07-23
+**Version:** 2026-07-23 / eight-module edition
+
 **Source category:** AI-assisted workflow tools; no production images, real prompts, account data, or private test evidence are included.
 
 This package is free to study, use for learning, and share for noncommercial purposes. When forwarding or adapting it, retain the source attribution:
