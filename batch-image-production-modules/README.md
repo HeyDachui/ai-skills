@@ -1,6 +1,8 @@
 # Batch Image Production Modules
 
-Eight small, independent Skills for a complete, evidence-based batch image-production workflow. Use one module when that is all you need, or combine them in this order:
+Nine small, independent Skills for evidence-based image production. Eight modules form a complete batch workflow; `prompt-to-commercial-image` is a separate single-image workflow for stabilizing structure before final rendering.
+
+Use the batch modules in this order:
 
 `asset preparation → prompt composition → queue building → dispatch → receipt control → quality curation → review gallery → finalization`
 
@@ -14,6 +16,7 @@ Eight small, independent Skills for a complete, evidence-based batch image-produ
 6. `curate-image-production-quality` — surface repetition and record reversible human keep/hide/reject decisions.
 7. `build-image-review-gallery` — build a local UTF-8 HTML gallery with grouping and broken-image indicators.
 8. `finalize-image-production` — reconcile delivery evidence and generate indexes, prompt archives, and exception reports.
+9. `prompt-to-commercial-image` — turn one complex image request into a scene specification, a checked composition blockout, and a controlled final image without requiring a separate material intermediate.
 
 ## What is intentionally not included
 
@@ -36,3 +39,4 @@ For commercial use or redistribution without attribution, contact the maintainer
 Source: <https://github.com/HeyDachui/ai-skills/tree/main/batch-image-production-modules>
 
 See [NOTICE.md](NOTICE.md) and [ASSET_MANIFEST.json](ASSET_MANIFEST.json) for the package boundary and provenance record.
+
