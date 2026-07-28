@@ -14,6 +14,7 @@ Handle one target image at a time. Separate structure from finish so each failur
 - Record source or rights status as `unknown` when it has not been checked.
 - Label derived artifacts explicitly, for example `scene_spec`, `blockout_prompt_v1`, and `final_prompt_v1`.
 - Never present a reconstructed, inferred, or reverse-engineered prompt as the historical prompt actually used.
+- If the request says to preserve an attribute but the controlling reference or prior asset is missing, mark that attribute as blocked. Do not invent what must be preserved.
 
 ## 2. Extract a scene specification
 
@@ -25,6 +26,7 @@ Create a checkable specification that covers:
 - focal point, visual hierarchy, motion direction, negative space, and text-safe area;
 - final color, material, lighting, atmosphere, and detail requirements;
 - fixed, variable, forbidden, and still-unknown decisions.
+- observable acceptance criteria or tolerances for the attributes that matter.
 
 Distinguish received requirements, facts visible in references, production judgments, and unknowns. Resolve conflicts that would change the image meaning before making the blockout.
 
@@ -46,7 +48,7 @@ If the specification is wrong, return to the specification. If the specification
 
 ## 4. Continue to color, materials, and final image
 
-Use the checked blockout as the structural constraint. Add color, materials, lighting, atmosphere, and final detail while preserving the accepted camera, subject position, scale, pose, silhouette, depth, and visual weight.
+Use the checked blockout as the structural constraint and carry forward the original references that control identity, color, material, lighting, or style. Add color, materials, lighting, atmosphere, and final detail while preserving the accepted camera, subject position, scale, pose, silhouette, depth, and visual weight. If the generation entry cannot accept both structural and appearance references, record the limitation and chosen workaround instead of silently dropping either constraint.
 
 A separate color-or-material intermediate is optional, not mandatory. Add that checkpoint only when color relations are complex, material meaning is ambiguous, the generation entry requires it, or a direct final pass drifts at that layer.
 
