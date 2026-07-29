@@ -24,5 +24,5 @@ This is a practical starter pack, not a professional brand, data-analysis, legal
 
 ## Source and rights
 
-This release contains original in-house instructional text and interface metadata only. No third-party code, templates, images, test artifacts, or internal workflow records are included. See [NOTICE.md](NOTICE.md) and [LICENSE.md](LICENSE.md).
+This release contains original in-house instructional text and interface metadata only. No third-party code, templates, images, test artifacts, or internal workflow records are included. It is available under [CC BY 4.0](LICENSE.md): commercial use, modification, and redistribution are allowed with appropriate attribution. See [NOTICE.md](NOTICE.md) and [LICENSE.md](LICENSE.md).
 
