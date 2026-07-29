@@ -25,5 +25,5 @@ This is an everyday safety net, not specialist legal, medical, academic, brand, 
 
 ## Source and rights
 
-This release contains only the six original in-house instructional Skills and their interface metadata. It excludes evaluation records, example artifacts, internal workflows, and all unrelated materials. See [NOTICE.md](NOTICE.md) and [LICENSE.md](LICENSE.md).
+This release contains only the six original in-house instructional Skills and their interface metadata. It excludes evaluation records, example artifacts, internal workflows, and all unrelated materials. It is available under [CC BY 4.0](LICENSE.md): commercial use, modification, and redistribution are allowed with appropriate attribution. See [NOTICE.md](NOTICE.md) and [LICENSE.md](LICENSE.md).
 
