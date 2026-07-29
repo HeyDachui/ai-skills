@@ -1,0 +1,4 @@
+interface:
+  display_name: "交付前检查 / Check Before Delivery"
+  short_description: "交付前检查文件与未知项 / Check real deliverables and unknowns"
+  default_prompt: "请使用 $check-before-delivery 打开真实交付物，找出最重要的问题和未知项，并判断它是否适合本次用途。 / Use $check-before-delivery to inspect the real deliverable, identify the top problems and unknowns, and judge whether it is ready for this use."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "文字变好懂 / Make It Readable"
+  short_description: "让杂乱文字清楚自然 / Make messy text clear and natural"
+  default_prompt: "请使用 $make-it-readable 在保留事实的前提下，把这段内容改成目标读者容易看懂的自然文字。 / Use $make-it-readable to rewrite this in clear, natural language for the intended reader while preserving facts."

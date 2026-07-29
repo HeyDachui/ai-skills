@@ -1,0 +1,4 @@
+interface:
+  display_name: "失败后修复 / Fix After Failure"
+  short_description: "失败后看证据并最小修复 / Repair failed output from evidence"
+  default_prompt: "请使用 $fix-after-failure 先看失败证据，再修最小的相关部分，不要盲目全部重做。 / Use $fix-after-failure to inspect the evidence, repair the smallest relevant part, and avoid blind regeneration."

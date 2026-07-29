@@ -1,0 +1,4 @@
+interface:
+  display_name: "任务说清楚 / Clarify the Task"
+  short_description: "把模糊想法变成一个可执行任务 / Turn a vague idea into one clear task"
+  default_prompt: "请使用 $clarify-real-task 把我的模糊想法变成一个可执行的小任务，最多问一个真正卡住的问题。 / Use $clarify-real-task to turn my vague idea into one executable task and ask at most one truly blocking question."
