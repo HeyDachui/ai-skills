@@ -1,0 +1,4 @@
+interface:
+  display_name: "规范PPT / Clean and Consistent Slides"
+  short_description: "做规范、好看的工作PPT / Make clean, consistent work slides"
+  default_prompt: "请使用 $make-clean-slides 把这些材料做成一套规范、清楚、不过度花哨的工作PPT。 / Use $make-clean-slides to turn these materials into a clean, consistent work slide deck."

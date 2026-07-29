@@ -1,0 +1,4 @@
+interface:
+  display_name: "视觉不土保底 / Visual Safety Net"
+  short_description: "让海报、PPT和页面清楚不土 / Make simple visuals clear and presentable"
+  default_prompt: "请使用 $make-it-visual-good-enough 在不改变原意的前提下，让这个简单视觉清楚、易读、不土。 / Use $make-it-visual-good-enough to make this simple visual clear, readable, and presentable without changing its meaning."
