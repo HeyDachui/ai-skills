@@ -3,7 +3,6 @@
   "package": "batch-image-production-modules",
   "version": "2026-07-28-nine-module-edition",
   "maintainer": "HeyDachui",
-  "source_thread": "019f7592-4f0a-7a10-9cfd-06fca82164a3",
   "visibility": "public-modular-edition",
   "public_modules": [
     "prepare-image-production-assets",
