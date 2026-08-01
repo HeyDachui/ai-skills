@@ -1,0 +1,4 @@
+interface:
+  display_name: "简单设计 / Everyday Design Basics"
+  short_description: "简单设计，不土不乱 / Make simple visuals presentable"
+  default_prompt: "请使用 $make-simple-design 把这些内容做成一版干净、清楚、不土的简单设计，并直接交付可查看结果。 / Use $make-simple-design to turn this content into one clean, clear, presentable design and deliver a viewable result."

@@ -1,0 +1,12 @@
+{
+  "schema": "public-skill-pack-manifest.v1",
+  "name": "everyday-ai-work-three-skill-pack",
+  "title": {"zh": "普通人AI办公三件套 Skill包", "en": "Everyday AI Work Three-Skill Pack"},
+  "version": "1.0.0",
+  "publishedAt": "2026-07-29",
+  "license": "CC-BY-4.0",
+  "includedSkills": ["make-simple-design", "make-clean-slides", "write-clear-work-draft"],
+  "excluded": ["evaluation and validation materials", "test outputs and example artifacts", "internal workflow records", "delivery checks, failure repair, and handoff skills"],
+  "sourceStatement": "Original in-house instructional text and interface metadata; no third-party code, templates, images, or test artifacts are included.",
+  "usageLimit": "This release is a practical starter pack and does not claim universal beginner effectiveness or specialist professional suitability."
+}

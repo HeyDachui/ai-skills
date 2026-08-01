@@ -1,0 +1,12 @@
+{
+  "schema": "public-skill-pack-manifest.v1",
+  "name": "ai-beginner-six-step-safety-net",
+  "title": {"zh": "AI新手六步保底 Skill包", "en": "AI Beginner Six-Step Safety Net"},
+  "version": "1.0.0",
+  "publishedAt": "2026-07-29",
+  "license": "CC-BY-4.0",
+  "includedSkills": ["clarify-real-task", "make-it-readable", "make-it-visual-good-enough", "check-before-delivery", "fix-after-failure", "handoff-to-next-person"],
+  "excluded": ["evaluation and validation materials", "test outputs and example artifacts", "internal workflow records", "all unrelated skills"],
+  "sourceStatement": "Original in-house instructional text and interface metadata; no third-party code, templates, images, or test artifacts are included.",
+  "usageLimit": "This release is an everyday safety net and does not claim universal beginner effectiveness or specialist professional suitability."
+}

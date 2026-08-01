@@ -1,0 +1,4 @@
+interface:
+  display_name: "工作文章 / Clear Work Writing"
+  short_description: "把材料写成清楚可改的工作稿 / Write a clear, editable work draft"
+  default_prompt: "请使用 $write-clear-work-draft 把我的选题、材料或口述内容写成一篇结构完整、清楚、方便继续修改的工作稿。 / Use $write-clear-work-draft to turn my topic, materials, or spoken notes into a clear, complete, editable work draft."
