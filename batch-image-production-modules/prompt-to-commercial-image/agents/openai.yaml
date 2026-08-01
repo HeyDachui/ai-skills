@@ -1,0 +1,5 @@
+interface:
+  display_name: "提示词到商业成图"
+  short_description: "先验白模结构，再完成单张复杂成图"
+  default_prompt: "Use $prompt-to-commercial-image to turn this complex image request into a staged, reviewable production workflow."
+

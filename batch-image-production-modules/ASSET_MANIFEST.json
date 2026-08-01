@@ -1,9 +1,8 @@
 {
   "schema": "heydachui-public-skill-manifest/v1",
   "package": "batch-image-production-modules",
-  "version": "2026-07-23-eight-module-edition",
+  "version": "2026-07-28-nine-module-edition",
   "maintainer": "HeyDachui",
-  "source_thread": "019f7592-4f0a-7a10-9cfd-06fca82164a3",
   "visibility": "public-modular-edition",
   "public_modules": [
     "prepare-image-production-assets",
@@ -13,13 +12,15 @@
     "control-image-generation-receipts",
     "curate-image-production-quality",
     "build-image-review-gallery",
-    "finalize-image-production"
+    "finalize-image-production",
+    "prompt-to-commercial-image"
   ],
   "excluded_from_public_release": [
     "integrated batch-image-production-controller",
     "real queues, prompts, generated images, receipts, and test outputs",
     "project-specific operational evidence and local paths"
   ],
-  "release_boundary": "Each module is independently usable. Combining them is optional; no public module is an autonomous publishing or image-generation system.",
+  "release_boundary": "Each module is independently usable. Combining them is optional; no public module is an autonomous publishing or image-generation system. The prompt-to-commercial-image module handles one complex target image and does not replace the batch modules.",
   "notice": "See NOTICE.md for source attribution, responsible-use expectations, and AI-use guidance."
 }
+
