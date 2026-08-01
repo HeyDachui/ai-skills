@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex代理自检"
+  short_description: "按五步检查代理端口、环境变量、重启状态、新CMD与冲突"
+  default_prompt: "Use $diagnose-codex-proxy to check why Codex keeps reconnecting while the browser can access the internet."
