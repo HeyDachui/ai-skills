@@ -5,6 +5,12 @@ A reusable AI collaboration skill for keeping project goals, context, constraint
 
 This Skill helps reduce goal drift, context loss, over-expansion, and inconsistent handoffs when working with AI across multiple conversations, tools, or project stages.
 
+## Find Public Skills in This Repository
+
+- [`prompt-to-commercial-image`](batch-image-production-modules/prompt-to-commercial-image) — 提示词到商业成图；a staged workflow for turning one complex image request into a reviewable composition blockout and controlled final image.
+
+Direct public URL: <https://github.com/HeyDachui/ai-skills/tree/main/batch-image-production-modules/prompt-to-commercial-image>
+
 ## What This Skill Solves
 
 Long-running AI collaboration often breaks down when:

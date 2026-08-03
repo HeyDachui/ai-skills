@@ -16,7 +16,7 @@ Use the batch modules in this order:
 6. `curate-image-production-quality` — surface repetition and record reversible human keep/hide/reject decisions.
 7. `build-image-review-gallery` — build a local UTF-8 HTML gallery with grouping and broken-image indicators.
 8. `finalize-image-production` — reconcile delivery evidence and generate indexes, prompt archives, and exception reports.
-9. `prompt-to-commercial-image` — turn one complex image request into a scene specification, a checked composition blockout, and a controlled final image without requiring a separate material intermediate.
+9. [`prompt-to-commercial-image`](prompt-to-commercial-image) — turn one complex image request into a scene specification, a checked composition blockout, and a controlled final image without requiring a separate material intermediate. 中文入口：提示词到商业成图。
 
 ## What is intentionally not included
 
