@@ -2,6 +2,11 @@
 
 Nine small, independent Skills for evidence-based image production. Eight modules form a complete batch workflow; `prompt-to-commercial-image` is a separate single-image workflow for stabilizing structure before final rendering.
 
+Canonical package slug: `batch-image-production-modules`
+中文入口：批量图片生产模块
+
+Public source: <https://github.com/HeyDachui/ai-skills/tree/main/batch-image-production-modules>
+
 Use the batch modules in this order:
 
 `asset preparation → prompt composition → queue building → dispatch → receipt control → quality curation → review gallery → finalization`

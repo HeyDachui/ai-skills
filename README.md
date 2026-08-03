@@ -7,9 +7,13 @@ This Skill helps reduce goal drift, context loss, over-expansion, and inconsiste
 
 ## Find Public Skills in This Repository
 
-- [`prompt-to-commercial-image`](batch-image-production-modules/prompt-to-commercial-image) — 提示词到商业成图；a staged workflow for turning one complex image request into a reviewable composition blockout and controlled final image.
+- [`普通人 AI 办公三件套`](skill-packs/everyday-ai-work-three-skill-pack) (`everyday-ai-work-three-skill-pack`) — three bilingual Skills for clear design, clean slides, and clear work drafts.
+- [`AI 新手六步保底`](skill-packs/ai-beginner-six-step-safety-net) (`ai-beginner-six-step-safety-net`) — six bilingual Skills for clarifying, producing, checking, repairing, and handing off everyday AI work.
+- [`批量图片生产模块`](batch-image-production-modules) (`batch-image-production-modules`) — nine independent, evidence-based image-production modules.
+- [`提示词到商业成图`](batch-image-production-modules/prompt-to-commercial-image) (`prompt-to-commercial-image`) — a staged workflow for one complex image request.
+- [`Codex 代理自检`](diagnose-codex-proxy) (`diagnose-codex-proxy`) — a read-only Windows proxy mismatch diagnostic Skill.
 
-Direct public URL: <https://github.com/HeyDachui/ai-skills/tree/main/batch-image-production-modules/prompt-to-commercial-image>
+All entries above are public directory entrypoints. Use the exact slug in GitHub search when looking for a specific Skill.
 
 ## What This Skill Solves
 

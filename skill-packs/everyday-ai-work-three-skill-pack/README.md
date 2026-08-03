@@ -3,6 +3,10 @@
 **中文名：普通人 AI 办公三件套 Skill 包**  
 Version: 1.0.0 · 2026-07-29
 
+Canonical slug: `everyday-ai-work-three-skill-pack`
+
+Public source: <https://github.com/HeyDachui/ai-skills/tree/main/skill-packs/everyday-ai-work-three-skill-pack>
+
 Three small, bilingual Skills for people starting to use AI for ordinary office work. Pick only the Skill that matches the current job:
 
 - `make-simple-design` — make a clear, presentable poster, social card, cover, or simple page.
