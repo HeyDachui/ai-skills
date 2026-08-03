@@ -3,6 +3,10 @@
 **中文名：AI 新手六步保底 Skill 包**  
 Version: 1.0.0 · 2026-07-29
 
+Canonical slug: `ai-beginner-six-step-safety-net`
+
+Public source: <https://github.com/HeyDachui/ai-skills/tree/main/skill-packs/ai-beginner-six-step-safety-net>
+
 Six lightweight, bilingual Skills for people using AI for everyday work for the first time. Use only the one that matches the step where you are stuck:
 
 1. `clarify-real-task` — turn a vague idea into one executable task.
