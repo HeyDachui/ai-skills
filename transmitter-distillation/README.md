@@ -7,6 +7,7 @@
 - 规范 slug：`transmitter-distillation`
 - 中文名：`传承者·蒸馏`
 - 搜索别名：`创作机制蒸馏`、`可追溯风格卡`
+- 作者（公开署名）：`HeyDachui`
 - 发布账号：`HeyDachui`
 - 官方仓库：[HeyDachui/ai-skills](https://github.com/HeyDachui/ai-skills)
 - 本 Skill 目录：[transmitter-distillation](https://github.com/HeyDachui/ai-skills/tree/main/transmitter-distillation)
@@ -32,4 +33,4 @@
 
 本目录和仓库当前**未声明许可证**。公开可访问只证明可以查看和下载，不自动授予复制、修改、再分发或商业使用许可。若要在公开项目、商业项目或衍生作品中使用，请先确认适用的许可和另行授权条件。
 
-本 README 中的发布账号和仓库入口是公开维护信息，不构成对任何被研究创作者的署名、认可或权利声明。
+本 README 中的作者字段是本项目的公开署名；发布账号和仓库入口是公开维护信息。它们不构成正式著作权登记，也不构成对任何被研究创作者的署名、认可或权利声明。
