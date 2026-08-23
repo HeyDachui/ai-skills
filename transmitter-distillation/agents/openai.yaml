@@ -1,0 +1,7 @@
+interface:
+  display_name: "传承者·蒸馏"
+  short_description: "从书籍论文提炼艺术家创作机制与可追溯风格卡"
+  default_prompt: "使用 $transmitter-distillation，从我提供的书籍、论文或作品材料中提炼可追溯的创作机制、风格卡与迁移边界。"
+
+policy:
+  allow_implicit_invocation: true
