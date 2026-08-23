@@ -12,6 +12,7 @@ This Skill helps reduce goal drift, context loss, over-expansion, and inconsiste
 - [`批量图片生产模块`](batch-image-production-modules) (`batch-image-production-modules`) — nine independent, evidence-based image-production modules.
 - [`提示词到商业成图`](batch-image-production-modules/prompt-to-commercial-image) (`prompt-to-commercial-image`) — a staged workflow for one complex image request.
 - [`Codex 代理自检`](diagnose-codex-proxy) (`diagnose-codex-proxy`) — a read-only Windows proxy mismatch diagnostic Skill.
+- [`传承者·蒸馏`](transmitter-distillation) (`transmitter-distillation`) — a traceable method for distilling creative mechanisms, style profiles, and transfer boundaries from source materials.
 
 All entries above are public directory entrypoints. Use the exact slug in GitHub search when looking for a specific Skill.
 
