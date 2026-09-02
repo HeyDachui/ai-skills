@@ -1,4 +1,4 @@
 interface:
-  display_name: "角色转表情包资产"
-  short_description: "从想法或已有形象出发，生成一致、可扩展、可动画的表情资产"
-  default_prompt: "使用 $character-to-sticker-assets 带我一步一步做表情包；如果信息不足，请先进入零基础引导访谈。"
+  display_name: "skill整理员｜表情包 Skill"
+  short_description: "把人物、宠物或吉祥物变成可继续生产的表情资产"
+  default_prompt: "使用 $character-to-sticker-assets（skill整理员｜表情包 Skill）带我一步一步做表情包；如果信息不足，请先进入零基础引导访谈。"

@@ -13,7 +13,7 @@ This Skill helps reduce goal drift, context loss, over-expansion, and inconsiste
 - [`提示词到商业成图`](batch-image-production-modules/prompt-to-commercial-image) (`prompt-to-commercial-image`) — a staged workflow for one complex image request.
 - [`Codex 代理自检`](diagnose-codex-proxy) (`diagnose-codex-proxy`) — a read-only Windows proxy mismatch diagnostic Skill.
 - [`传承者·蒸馏`](transmitter-distillation) (`transmitter-distillation`) — a traceable method for distilling creative mechanisms, style profiles, and transfer boundaries from source materials.
-- [`角色转表情包资产`](character-to-sticker-assets) (`character-to-sticker-assets`) — a guided, identity-stable workflow for turning a character into reusable static, interactive, animated, and platform-ready sticker assets.
+- [`skill整理员｜表情包 Skill`](character-to-sticker-assets) (`character-to-sticker-assets`) — a guided, identity-stable workflow for turning a character into reusable static, interactive, animated, and platform-ready sticker assets.
 
 All entries above are public directory entrypoints. Use the exact slug in GitHub search when looking for a specific Skill.
 

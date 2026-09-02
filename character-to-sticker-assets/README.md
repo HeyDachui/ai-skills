@@ -1,6 +1,13 @@
-# 角色转表情包资产（character-to-sticker-assets）
+# skill整理员｜表情包 Skill（character-to-sticker-assets）
 
 把一个人物、宠物、品牌吉祥物或已有角色，从一张参考图发展成一套身份稳定、能继续扩展的表情资产。
+
+账号／内容来源：`skill整理员`
+
+中文展示名：`skill整理员｜表情包 Skill`
+机器调用名：`$character-to-sticker-assets`
+
+中文名用于界面、文档和对外介绍；机器调用名保留稳定的英文连字符 slug，以兼容 GitHub 目录和支持 Skill 的客户端发现机制。
 
 ## 公开入口
 

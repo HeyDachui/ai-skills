@@ -2,12 +2,12 @@
 name: character-to-sticker-assets
 description: 将角色概念、已有角色、品牌形象或吉祥物转化为身份稳定、可扩展、可动画化并可交付的表情资产。用户不知道怎么开始时，通过逐轮选择完成零基础引导；也用于生成或重绘角色母版、扩展单／双角色表情、准备动画资产及平台候选包。角色形象的生成必须使用图像生成能力；只有已有真实模板或真正可编辑的PSD等源文件时才允许直接编辑和复用。不要用于仅搬运文件、改变尺寸或做无创透明度整理的任务。
 metadata:
-  version: "1.2.0"
+  version: "1.2.0-public"
   language: "zh-CN"
-  status: "frozen-baseline"
+  status: "public-sanitized-edition"
 ---
 
-# 角色转表情包资产
+# skill整理员｜表情包 Skill
 
 把一个已经明确的角色或品牌形象，建设成能在真实聊天中使用、能继续扩展、能做动态、能回到真实源文件的表情资产系统。不要把本Skill理解成一次性生成一张拼图。
 

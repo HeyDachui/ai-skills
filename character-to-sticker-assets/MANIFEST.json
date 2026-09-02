@@ -6,6 +6,9 @@
   "visibility": "public-sanitized-edition",
   "license": "CC-BY-4.0",
   "maintainer": "HeyDachui",
+  "accountSource": "skill整理员",
+  "displayNameZh": "skill整理员｜表情包 Skill",
+  "machineSlug": "character-to-sticker-assets",
   "publicSource": "https://github.com/HeyDachui/ai-skills/tree/main/character-to-sticker-assets",
   "included": [
     "SKILL.md",
