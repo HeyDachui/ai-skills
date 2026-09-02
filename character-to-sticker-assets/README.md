@@ -12,7 +12,7 @@
 ## 公开入口
 
 - 规范 slug：`character-to-sticker-assets`
-- 中文名：`角色转表情包资产`
+- 中文名：`skill整理员｜表情包 Skill`
 - 发布账号：`HeyDachui`
 - 官方仓库：[HeyDachui/ai-skills](https://github.com/HeyDachui/ai-skills)
 - 本 Skill 目录：[character-to-sticker-assets](https://github.com/HeyDachui/ai-skills/tree/main/character-to-sticker-assets)
