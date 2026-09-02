@@ -1,0 +1,35 @@
+{
+  "project_name": "",
+  "package_version": "V0.1",
+  "asset_status": "CANDIDATE",
+  "items": [
+    {
+      "path": "",
+      "category": "MASTER|EXPRESSION|ACTION|INTERACTION|PART|SOURCE|PREVIEW|PLATFORM_EXPORT",
+      "truth_type": "GENERATED_MASTER|GENERATED_VARIANT|RASTER_EXTRACTED|RASTER_RECONSTRUCTED|LAYERED_RASTER_SOURCE|SVG_WRAPPER|VECTORIZED_TRACE|TRUE_VECTOR_SOURCE|TECHNICAL_RIG|PLATFORM_EXPORT",
+      "source_path_or_id": "",
+      "dimensions_px": [],
+      "transparent": false,
+      "layered": false,
+      "duration_seconds": null,
+      "fps": null,
+      "bytes": null,
+      "rights_status": "UNKNOWN",
+      "approval_status": "CANDIDATE",
+      "notes": ""
+    }
+  ],
+  "prompt_log_in_thread": true,
+  "prompt_log_mirror_path": "",
+  "project_state_path": "",
+  "platform": {
+    "name": "",
+    "submission_status": "NOT_SUBMITTED",
+    "checked_requirements_at": ""
+  },
+  "integrity_check": {
+    "archive_tested": false,
+    "missing_files": [],
+    "known_limitations": []
+  }
+}

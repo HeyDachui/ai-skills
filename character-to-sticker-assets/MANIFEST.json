@@ -1,0 +1,35 @@
+{
+  "schema": "heydachui-public-skill-manifest.v1",
+  "package": "character-to-sticker-assets",
+  "version": "1.2.0-public",
+  "publishedAt": "2026-09-02",
+  "visibility": "public-sanitized-edition",
+  "license": "CC-BY-4.0",
+  "maintainer": "HeyDachui",
+  "publicSource": "https://github.com/HeyDachui/ai-skills/tree/main/character-to-sticker-assets",
+  "included": [
+    "SKILL.md",
+    "README.md",
+    "NOTICE.md",
+    "LICENSE.md",
+    "agents/openai.yaml",
+    "references/*.md",
+    "assets/templates/*.json",
+    "assets/templates/PROMPT_LOG.md"
+  ],
+  "caseLibrary": [
+    "white-cat: text-only method reference",
+    "black-cat: text-only method reference",
+    "red-scarf-girl: text-only method reference"
+  ],
+  "excludedFromPublicRelease": [
+    "internal generated images",
+    "GIF and platform exports",
+    "PSD/ORA and other editable source files",
+    "conversation and task identifiers",
+    "private project evidence and local absolute paths",
+    "real production prompts and upload materials"
+  ],
+  "sourceStatement": "Original in-house instructional method and interface metadata, with de-identified text-only case notes; no internal production binaries or third-party source files are included.",
+  "usageLimit": "A workflow aid, not a guarantee of character identity, platform approval, rights clearance, or professional legal advice."
+}

@@ -1,0 +1,29 @@
+{
+  "project_name": "",
+  "asset_status": "CANDIDATE",
+  "current_mode": "audit",
+  "current_version": "V0.1",
+  "final_use": [],
+  "target_platform": [],
+  "master": {
+    "file_or_image_id": "",
+    "version": "",
+    "status": "PROVISIONAL",
+    "source_type": "GENERATED_MASTER|REAL_EDITABLE_SOURCE",
+    "approved_by": "",
+    "reason": ""
+  },
+  "reference_roles": [],
+  "real_editable_sources": [],
+  "locked_traits": [],
+  "forbidden_directions": [],
+  "selected_outputs": [],
+  "rejected_outputs": [],
+  "rights_status": "UNKNOWN",
+  "platform_submission_status": "NOT_SUBMITTED",
+  "latest_prompt_log": "",
+  "next_single_change": "",
+  "rollback_to": "",
+  "known_limitations": [],
+  "updated_at": ""
+}
