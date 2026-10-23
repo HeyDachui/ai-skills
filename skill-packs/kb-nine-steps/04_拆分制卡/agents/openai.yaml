@@ -1,0 +1,4 @@
+interface:
+  display_name: "拆分制卡"
+  short_description: "把书籍、研报和文章拆成五类候选知识卡，保留原文证据、条件与处理范围。"
+  default_prompt: "请使用 $card-splitting 把这份资料按事实、理论、观点、技巧和经验拆成可追溯的候选卡。"
