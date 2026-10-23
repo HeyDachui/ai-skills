@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡片评分"
+  short_description: "分别评估知识卡的相关性、忠实度、来源和时效，并定位评分分歧。"
+  default_prompt: "请使用 $card-scoring 结合当前问题、原文和来源，分别评估候选卡的相关性、忠实度、来源和时效。"

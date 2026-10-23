@@ -1,0 +1,4 @@
+interface:
+  display_name: "强制检索"
+  short_description: "为指定工作生成查库规则，明确检索问题、原文阅读、引用和使用记录。"
+  default_prompt: "请使用 $required-retrieval 为指定工作生成可复制的知识库检索规则和使用记录模板。"

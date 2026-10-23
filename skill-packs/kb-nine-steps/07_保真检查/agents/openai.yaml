@@ -1,0 +1,4 @@
+interface:
+  display_name: "保真检查"
+  short_description: "独立对照原文与整理稿，逐项列出语义遗漏、改动及需要恢复的说法。"
+  default_prompt: "请使用 $fidelity-check 独立对照原文和整理稿，列出语义遗漏、改动与建议恢复的说法。"

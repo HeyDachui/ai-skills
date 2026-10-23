@@ -1,0 +1,13 @@
+{
+  "schema": "public-skill-pack-manifest.v1",
+  "name": "kb-nine-steps",
+  "title": {"zh": "九步搭好知识库", "en": "Knowledge Base in Nine Steps"},
+  "version": "1.0.0",
+  "publishedAt": "2026-10-23",
+  "license": "CC-BY-4.0",
+  "includedSkills": ["needs-interview", "simple-setup", "card-template", "card-splitting", "review-cycle", "required-retrieval", "fidelity-check", "card-scoring", "review-writeback"],
+  "skillDirectories": ["01_需求访谈", "02_简单搭建", "03_卡片模板", "04_拆分制卡", "05_复查周期", "06_强制检索", "07_保真检查", "08_卡片评分", "09_复盘回写"],
+  "excluded": ["内部工作记录", "原始制作工程与音视频", "核对记录与测试产物"],
+  "sourceStatement": "本包将《知识库到底咋搭？九步》的原创提示词与方法整理为公开中文资料包，包含说明、界面配置和项目安装脚本。",
+  "usageLimit": "这是模板，按自己的工作调整，周期和评分只是辅助。"
+}

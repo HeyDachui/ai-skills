@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求访谈"
+  short_description: "逐题访谈工作需求，明确知识库用途、人工参与和需要保留的决策边界。"
+  default_prompt: "请使用 $needs-interview 逐题访谈我，明确知识库用途、AI 分工、参与程度和需要本人决定的事项。"

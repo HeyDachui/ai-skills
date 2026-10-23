@@ -1,0 +1,4 @@
+interface:
+  display_name: "复查周期"
+  short_description: "按变化事件和用途安排知识复核，区分历史事实、当前状态和特定时期风格。"
+  default_prompt: "请使用 $review-cycle 为这些卡片制定以变化事件为主、周期复核为辅的更新安排。"

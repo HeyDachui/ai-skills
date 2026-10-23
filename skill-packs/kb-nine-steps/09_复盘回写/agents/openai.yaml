@@ -1,0 +1,4 @@
+interface:
+  display_name: "复盘回写"
+  short_description: "将实际工作经验写回候选卡，保留修订链并用原问题核验新说法是否被采用。"
+  default_prompt: "请使用 $review-writeback 将这次工作的经验写回候选卡，保留旧卡修订链，并用原问题验证新说法是否被采用。"
