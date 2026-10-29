@@ -1,0 +1,4 @@
+interface:
+  display_name: "自然表达-写作"
+  short_description: "根据题目、观点和材料写自然的中文稿，改写时保住原观点、信息量与情绪强度。"
+  default_prompt: "请使用 $natural-expression-writing，根据我的题目、观点和材料写稿；如需改写，保住原观点和信息量，交付干净正文。"

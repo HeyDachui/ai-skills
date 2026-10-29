@@ -10,6 +10,7 @@ This Skill helps reduce goal drift, context loss, over-expansion, and inconsiste
 - [`普通人 AI 办公三件套`](skill-packs/everyday-ai-work-three-skill-pack) (`everyday-ai-work-three-skill-pack`) — three bilingual Skills for clear design, clean slides, and clear work drafts.
 - [`AI 新手六步保底`](skill-packs/ai-beginner-six-step-safety-net) (`ai-beginner-six-step-safety-net`) — six bilingual Skills for clarifying, producing, checking, repairing, and handing off everyday AI work.
 - [`九步搭好知识库`](skill-packs/kb-nine-steps) (`kb-nine-steps`) — nine Chinese prompts and Skills for building and using a practical knowledge base.
+- [`学写法与自然表达`](skill-packs/w004-writing-skills) (`w004-writing-skills`) — two Chinese Skills: 学写法-蒸馏 for learning from source materials, and 自然表达-写作 for natural prose.
 - [`批量图片生产模块`](batch-image-production-modules) (`batch-image-production-modules`) — nine independent, evidence-based image-production modules.
 - [`提示词到商业成图`](batch-image-production-modules/prompt-to-commercial-image) (`prompt-to-commercial-image`) — a staged workflow for one complex image request.
 - [`Codex 代理自检`](diagnose-codex-proxy) (`diagnose-codex-proxy`) — a read-only Windows proxy mismatch diagnostic Skill.
