@@ -1,0 +1,4 @@
+interface:
+  display_name: "学写法-蒸馏"
+  short_description: "从自己的原话和参考稿提取说话卡、不要单子、骨架卡与料卡，供写稿使用。"
+  default_prompt: "请使用 $learn-writing-distillation，围绕我的写作问题，分开处理自己的原话和参考稿，整理四样卡并保留出处。"
